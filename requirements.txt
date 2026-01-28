@@ -1,1 +1,5 @@
+streamlit==1.37.0
+openai>=1.40.0
+reportlab==4.2.2
+pydantic==2.8.2
 
