@@ -10,7 +10,7 @@ from pdf_report import build_pdf
 # ----------------------------
 # Demo ayarları
 # ----------------------------
-APP_TITLE = "AI Konut Fizibilite Agent (DEMO)"
+APP_TITLE = "AI Konut Fizibilite Agent"
 DEFAULT_DAILY_LIMIT = 5
 
 def get_client() -> OpenAI:
