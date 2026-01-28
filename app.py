@@ -9,7 +9,7 @@ from urllib.request import urlopen
 from feasibility import compute_outputs, sensitivity, DEFAULTS
 from pdf_report import build_pdf
 
-APP_TITLE = "AI Konut Fizibilite Asistanı — Dr. Ömür Tezcan / GGtech"
+APP_TITLE = "AI Konut Fizibilite Asistanı — GGtech / omurtezcan@gmail.com"
 DEFAULT_DAILY_LIMIT = 5
 
 # ----------------------------
